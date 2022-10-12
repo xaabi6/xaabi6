@@ -2,7 +2,7 @@
 
 My name is Xabi and I'm a developer from the green and rainy Basque Country who enjoys expending free time as a sysadmin, improving skills and repairing old but good cars.
 
-I work developing [UDA](https://github.com/UDA-EJIE), maintaining [Club Celica España](https://github.com/Club-Celica-Spain), operating a Tor relay and deploying multiple Docker containers in my home lab.
+I work developing [UDA](https://github.com/UDA-EJIE), but I also expend my time maintaining [Club Celica España](https://github.com/Club-Celica-Spain), operating a Tor relay and deploying multiple Docker containers in my home lab.
 
 By the way, I also contribute to open source projects but I mainly focus on helping mapping Open Street Maps.
 
