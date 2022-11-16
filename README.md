@@ -66,6 +66,3 @@ By the way, I also contribute to open source projects but I mainly focus on help
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
-
-### And last but not least, some cool stuff:
-[![Xabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xaabi6&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=xaabi6)
