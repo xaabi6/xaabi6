@@ -2,9 +2,9 @@
 
 My name is Xabi and I'm a developer from the green and rainy Basque Country who enjoys expending free time as a sysadmin, improving skills and repairing old but good cars.
 
-I work developing [UDA](https://github.com/UDA-EJIE), but I also expend my time maintaining [Club Celica España](https://github.com/Club-Celica-Spain), operating a Tor relay and deploying multiple Docker containers in my home lab.
+I work developing [UDA](https://github.com/UDA-EJIE), but I also expend my time with multiple homelab projects hosted on a local Proxmox VE instance.
 
-By the way, I also contribute to open source projects but I mainly focus on helping mapping Open Street Maps.
+By the way, I also contribute to open source projects but I mainly focus on helping mapping [Open Street Maps](https://www.openstreetmap.org/user/Ragga%20Muffin) and operating a [Tor relay](https://metrics.torproject.org/rs.html#details/757F4A12701ACD73A5352054EA4F357CC4B44765).
 
 ### Stuff I'm familiar with:
 <p align="left">
@@ -56,6 +56,9 @@ By the way, I also contribute to open source projects but I mainly focus on help
   <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
   </a>
+  <a href="https://traefik.io/traefik" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/traefikproxy/traefikproxy-plain-wordmark.svg" alt="traefik" width="40" height="40"/>
+  </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
   </a>
@@ -64,5 +67,8 @@ By the way, I also contribute to open source projects but I mainly focus on help
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.proxmox.com/en/products/proxmox-virtual-environment/overview" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/proxmox/proxmox-original-wordmark.svg" alt="proxmox" width="40" height="40"/>
   </a>
 </p>
