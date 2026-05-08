@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Xabi and I'm a developer from the green and rainy Basque Country who enjoys spending free time as a sysadmin, improving skills and repairing classic cars.
+My name is Xabi and I'm a developer and analyst from the green and rainy Basque Country who enjoys spending free time as a sysadmin, improving skills and repairing classic cars.
 
 I used to work developing and maintaining [UDA](https://github.com/UDA-EJIE), but I'm currently working on an [EUDI Wallet](https://ec.europa.eu/digital-building-blocks/sites/spaces/EUDIGITALIDENTITYWALLET/pages/694487738/EU+Digital+Identity+Wallet+Home) project. I also spend my time with multiple homelab projects hosted on a local Proxmox VE instance.
 
